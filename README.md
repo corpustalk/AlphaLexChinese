@@ -29,7 +29,7 @@ Please refer to our article for a detailed description of the tool.
 > **Abstract**: The study introduces AlphaLexChinese (ALC), the first tool that is designed to measure the lexical complexity of Chinese texts. ALC incorporates 50 metrics across three dimensions, i.e., lexical density, lexical sophistication, and lexical variation. To test the applicability and validity of ALC, we analyzed 11,485 scored essays from a corpus of L2 Chinese writing. The multiple regression analysis revealed that nine metrics significantly predicted the scores of the L2 Chinese writing, which accounts for 14.2% of the variance in scores. These metrics include three metrics of lexical sophistication (i.e., the Mean CPG Score, the Moving Average Verb Sophistication, and the Mean AoA Score), and six metrics of lexical variation (i.e., the Moving Average Lexical Word Variation, the Measure of Textual Lexical Diversity, the Moving Average Entropy of Lexical Words, the Moving Average TTR, the Moving Average Verb Variation 2, and the Moving Average Verb Variation 1). Pedagogical and research implications of ALC are discussed from the perspectives of pedagogical meanings of the metrics, tracking diachronic changes in language, L1 and L2 Chinese language teaching and learning, and possible applications in automated essay scoring systems.
 
 
-*We would very much appreciate it if you kindly cite the above work (Zhang and Lei, 2025) when you use **AlphaLexChinese** in your research. *
+***We would very much appreciate it if you kindly cite the above work (Zhang and Lei, 2025) when you use **AlphaLexChinese** in your research.***
 
 ***
 
