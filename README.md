@@ -1,5 +1,8 @@
 # AlphaLexChinese
 
+<img width="3834" height="1962" alt="image" src="https://github.com/user-attachments/assets/371b3dec-1d09-4358-9674-75d321af4b71" />
+
+
 **AlphaLexChinese**, a tool that measures lexical complexity in Chinese texts.
 
 - AlphaLexChinese (ALC) measures lexical complexity in Chinese texts.
