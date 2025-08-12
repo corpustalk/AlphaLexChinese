@@ -34,7 +34,7 @@ We would very much appreciate it if you kindly cite the above work (Zhang and Le
 
 ## Download
 
-The **AlphaLexChinese** app for MS Windows is now available at the Releases (the right side of this page). 
+The **AlphaLexChinese** app for MS Windows is now available at the **Releases** (the right side of this page). 
 
 The **AlphaLexChinese** app for MacOS will come soon. 
 
