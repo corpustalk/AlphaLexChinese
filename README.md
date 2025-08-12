@@ -28,7 +28,7 @@ We would very much appreciate it if you kindly cite the above work (Zhang and Le
 
 ***
 
-Download the **AlphaLexChinese** apps 
+## Download the **AlphaLexChinese** apps 
 
 The **AlphaLexChinese** app for MS Windows is now available at the Releases (the right side of this page). 
 
