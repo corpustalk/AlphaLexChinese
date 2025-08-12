@@ -3,7 +3,9 @@
 <img width="3834" height="1962" alt="image" src="https://github.com/user-attachments/assets/371b3dec-1d09-4358-9674-75d321af4b71" />
 
 
-**AlphaLexChinese**, a tool that measures lexical complexity in Chinese texts.
+## What AlphaLexChinese is
+
+**AlphaLexChinese** is a tool that measures lexical complexity in Chinese texts.
 
 - AlphaLexChinese (ALC) measures lexical complexity in Chinese texts.
 
@@ -17,6 +19,8 @@
 
 ***
 
+## Our article
+
 Please refer to our article for a detailed description of the tool. 
 
 > Zhang, H., & Lei, L. (2025). AlphaLexChinese: Measuring lexical complexity in Chinese texts and its predictive validity for L2 writing scores. *System*, 103809. https://doi.org/10.1016/j.system.2025.103809
@@ -28,13 +32,15 @@ We would very much appreciate it if you kindly cite the above work (Zhang and Le
 
 ***
 
-## Download the **AlphaLexChinese** apps 
+## Download
 
 The **AlphaLexChinese** app for MS Windows is now available at the Releases (the right side of this page). 
 
 The **AlphaLexChinese** app for MacOS will come soon. 
 
 ***
+
+## Contacts
 
 If you have any suggestions or comments concerning either our article or the **AlphaLexChinese** app, please contact: leileicn AT qq DOT com. 
 
