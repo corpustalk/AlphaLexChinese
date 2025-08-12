@@ -33,6 +33,6 @@ The **AlphaLexChinese** app for MacOS will come soon.
 
 ***
 
-If you have any suggestions or comments, please contact at leileicn AT qq DOT com. 
+If you have any suggestions or comments concerning either our article or the **AlphaLexChinese** app, please contact: leileicn AT qq DOT com. 
 
 Thank you very much for your attention. 
