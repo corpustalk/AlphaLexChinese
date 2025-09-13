@@ -21,7 +21,7 @@
 
 ## For Mac users
 
-After install ALC, please type the following command in termina, and then open ALC. 
+After install ALC, please type and run the following command in terminal, and then open and play with ALC. 
 
 `sudo xattr -cr /Applications/AlphaLexChinese.app`
 
