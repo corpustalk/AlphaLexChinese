@@ -21,7 +21,7 @@
 
 ## For Mac users
 
-After install ALC, please type and run the following command in terminal, and then open and play with ALC. 
+After installing ALC, please type and run the following command in terminal, and then open and play with ALC. 
 
 `sudo xattr -cr /Applications/AlphaLexChinese.app`
 
@@ -42,9 +42,7 @@ Please refer to our article for a detailed description of the tool.
 
 ## Download
 
-The **AlphaLexChinese** app for MS Windows is now available at the **Releases** (the right side of this page). 
-
-The **AlphaLexChinese** app for MacOS will come soon. 
+The **AlphaLexChinese** app (for MS Windows and MacOS) is now available at the **Releases** (the right side of this page). 
 
 ***
 
