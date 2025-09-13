@@ -19,6 +19,13 @@
 
 ***
 
+## For Mac users
+
+After install ALC, please type the following command in termina, and then open ALC. 
+
+`sudo xattr -cr /Applications/AlphaLexChinese.app`
+
+
 ## Our article
 
 Please refer to our article for a detailed description of the tool. 
